@@ -15,7 +15,8 @@ MAX_LEN = 10        # Максимальная длина прогрессии
 
 
 def generate_round():
-    """Generates a progression string with one hidden number and the correct answer."""
+    """Generates a progression string with one hidden number
+    and the correct answer."""
     start = random.randint(MIN_START, MAX_START)
     diff = random.randint(MIN_DIFF, MAX_DIFF)
     length = random.randint(MIN_LEN, MAX_LEN)
