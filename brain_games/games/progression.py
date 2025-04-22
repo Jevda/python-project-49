@@ -35,6 +35,6 @@ def generate_round():
     # Преобразуем числа в строки   # <--- Перенеси комментарий сюда
     progression_question = [str(num) for num in progression]
     progression_question[hidden_index] = ".."
-    question = " ".join(progression_question)  # Объединяем в строку через пробел
+    question = " ".join(progression_question)
 
     return question, correct_answer

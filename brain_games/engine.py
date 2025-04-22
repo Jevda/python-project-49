@@ -11,9 +11,10 @@ def run_game(rules, generate_round_data):
 
     Args:
         rules: The rules of the game to be displayed.
-        generate_round_data: A function that generates question and correct answer
-                             for a single round. It should return a tuple:
-                             (question_string, correct_answer_string).
+        generate_round_data:
+        A function that generates question and correct answer
+        for a single round. It should return a tuple:
+        (question_string, correct_answer_string).
     """
     print("Welcome to the Brain Games!")
     name = prompt.string('May I have your name? ')
