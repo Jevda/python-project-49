@@ -22,3 +22,5 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Jevda_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Jevda_python-project-49)
 
 [![asciicast](https://asciinema.org/a/tyo1sGPhRvPxhTZ9JnOpbcC6m.svg)](https://asciinema.org/a/tyo1sGPhRvPxhTZ9JnOpbcC6m)
+
+[![asciicast](https://asciinema.org/a/UKV4ob79PjFismaDbY1kR600I.svg)](https://asciinema.org/a/UKV4ob79PjFismaDbY1kR600I)
